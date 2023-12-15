@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 
 import '../../common/global_variables.dart';
 import '../models/auth_response_model.dart';
-// import '../models/request/login_request_model.dart';
+import '../models/request/login_request_model.dart';
 import '../models/request/register_request_model.dart';
 import 'auth_local_datasource.dart';
 
